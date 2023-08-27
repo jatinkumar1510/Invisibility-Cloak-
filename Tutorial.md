@@ -161,5 +161,6 @@ in the final mask (`The pixels corresponding to the detected red colour`), and w
 with the pixel values of respective coordinates in the background frame. That's the trick. 
 View the gif Pictures to understand what is happening. 
 
-![Screenshot (14)](https://github.com/jatinkumar1510/Invisibility-Cloak-/assets/112920486/0e2434bd-d90a-4a78-9274-e4408a6b55c3)
+
+![Screenshot (14)](https://github.com/jatinkumar1510/Invisibility-Cloak-/assets/112920486/7122e144-093e-4b09-822b-048a137d7d67)
 
