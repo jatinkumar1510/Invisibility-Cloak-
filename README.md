@@ -1,4 +1,5 @@
-![Screenshot (13)](https://github.com/jatinkumar1510/Invisibility-Cloak-/assets/112920486/26601843-df94-4999-abaf-ead15e52c3a8)
+![Screenshot (13)](https://github.com/jatinkumar1510/Invisibility-Cloak-/assets/112920486/5f498c5d-fcf2-4031-8300-dcf525cb514b)
+
 
 Being a harry potter fan I always had a childhood fantasy of using an invisibility cloak. Well it turns out that
 using simple image processing tricks I can now actually fulfil my childhood fantasy.
@@ -14,7 +15,7 @@ This [code](AR_invisibility_Cloak.py) turns a `red` colour cloth into an invisib
 
 #### Clone
 
-- Clone this repo to your local machine using `https://github.com/`
+- Clone this repo to your local machine using `https://github.com/jatinkumar1510/Invisibility-Cloak-`
 
 #### Setup/Requirements
 
@@ -30,7 +31,7 @@ This [code](AR_invisibility_Cloak.py) turns a `red` colour cloth into an invisib
 
 ## This is how it works
 
-![Screenshot (14)](https://github.com/jatinkumar1510/Invisibility-Cloak-/assets/112920486/2bcfd24d-04ba-480a-9317-58cbd1342dff)
+![Screenshot (14)](https://github.com/jatinkumar1510/Invisibility-Cloak-/assets/112920486/85e325b3-1cf1-4b02-b300-9ea302d843d6)
 
 
 ### Refer the [Tutorial](Tutorial.md) for detailed explanation of the code.
